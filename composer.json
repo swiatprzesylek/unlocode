@@ -1,5 +1,5 @@
 {
-    "name": "ophpl/unlocode",
+    "name": "swiatprzesylek/unlocode",
     "type": "library",
     "description": "PHP API for UN/LOCODE - United Nations Code for Trade and Transport Locations",
     "keywords": ["unlocode"],
